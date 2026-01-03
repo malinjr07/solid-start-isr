@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 > This is the branch for the SolidStart 2.0.0-alpha that is currently under heavy development.
-> 
+>
 > Current SolidStart is maintained at [`1.x`](https://github.com/solidjs/solid-start/tree/1.x).
 
 ## Prerequisites
@@ -144,3 +144,7 @@ End-to-end tests are located in `apps/tests` projects. For manual testing and de
 
 If you have read all the way here, you're already a champ! 🏆
 Thank you.
+
+## Issue working on
+
+https://github.com/solidjs/solid-start/issues/443
